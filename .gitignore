@@ -1,0 +1,8 @@
+plugin.xml
+c.tld
+fmt.tld
+*.iml
+.idea
+target
+web-app/WEB-INF/tld
+grails-app/views/_gitRevision.gsp
